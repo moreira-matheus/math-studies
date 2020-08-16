@@ -283,7 +283,7 @@ O vetor $\vec{w} = C-A = (A + \vec{u}) + \vec{v} - A= \vec{u} + \vec{v}$ não de
   - Soma: "conectada" a extremidade de $\vec{u}$  à origem de $\vec{v}$, $\vec{u} + \vec{v}$ é dado pelo vetor que tem por origem a origem de $\vec{u}$ e por extremidade a extremidade de $\vec{v}$.
   - Diferença: "conectadas" as origens de $\vec{u}$ e de $\vec{v}$, $\vec{u} + (-\vec{v}) = \vec{u} - \vec{v}$ é dado pelo vetor que tem por origem a extremidade de $\vec{v}$ e por extremidade a extremidade de $\vec{u}$.
 
-<img src='./IMG/soma-vetor-metodos-graficos.jpg' width=600>
+<img src='../IMG/soma-vetor-metodos-graficos.jpg' width=600>
 
 #### 12. Módulo, direção e sentido
 
